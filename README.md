@@ -1,6 +1,6 @@
 # Hey, I'm [Josh Pohl](https://www.lightpohl.me).
 
-I’m a software engineer working rmeotely somewhere in the US.
+I’m a software engineer working remotely somewhere in the US.
 
 Some of my code is helping power projects at Yum, Cameo, VICE, the MTA, USAA, and sites like [Yap](https://yap.chat/).
 
