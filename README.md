@@ -12,8 +12,3 @@ I’m a full-stack software engineer building vibrant and accessible web platfor
 
 **[bakedle](https://bakedle.com/)** — A daily puzzle game about beautiful bakes
 
-## Elsewhere
-
-- [lightpohl.me](https://lightpohl.me)
-- [X](https://x.com/lightpohl)
-- [Bluesky](https://bsky.app/profile/lightpohl.me)
