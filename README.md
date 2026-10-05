@@ -10,5 +10,5 @@ I’m a full-stack software engineer building vibrant and accessible web platfor
 
 **[podcast-dl](https://github.com/lightpohl/podcast-dl)** — CLI for downloading and archiving podcasts
 
-**[bakedle](https://bakedle.com/)** — A daily puzzle game about beautiful bakes
+**[bakedle](https://bakedle.pages.dev/)** — A daily puzzle game about beautiful bakes
 
